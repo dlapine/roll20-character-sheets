@@ -4,5 +4,5 @@
 	"authors": "Dan LaPine", 
 	"roll20userid": "4101975",
 	"preview": "Hero System 5R sample.png",
-	"instructions": "Updates tp a sheet modeled to look like the generic 6th edition Hero Games sheet, but is correct for 5R. This sheet does not take advantage of repeating fieldsets in order to preserve the layout. Includes Targeting and Hit location tables. Not intended for character generation"
+	"instructions": "V1.43 Updates to a sheet modeled to look like the generic 6th edition Hero Games sheet, but is correct for 5R. This sheet does not take advantage of repeating fieldsets in order to preserve the layout. Includes Targeting, Hit location tables and a roll template for Hit locations. Not intended for character generation. To call the hit location template use this call in a macro: &{template:location}{{hitlocation=[[3d6]]}}"
 }
